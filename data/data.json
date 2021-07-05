@@ -1,0 +1,60 @@
+{
+  "countries": [
+    {
+      "id": "amam12-amam",
+      "name": "Australia",
+      "continent": "Oceania",
+      "flag": "images/australia.png",
+      "rank": 4
+    },
+    {
+      "id": "amam11-amam",
+      "name": "England",
+      "continent": "Europe",
+      "flag": "images/england.png",
+      "rank": 5
+    },
+    {
+      "id": "amam13-amam",
+      "name": "Namibia",
+      "continent": "Africa",
+      "flag": "images/namibia.png",
+      "rank": 8
+    },
+    {
+      "id": "amam14-amam",
+      "name": "New Zealand",
+      "continent": "Oceania",
+      "flag": "images/newzealand.png",
+      "rank": 3
+    },
+    {
+      "id": "amam15-amam",
+      "name": "Pakistan",
+      "continent": "Asia",
+      "flag": "images/pakistan.png",
+      "rank": 6
+    },
+    {
+      "id": "amam16-amam",
+      "name": "Zimbabwe",
+      "continent": "Africa",
+      "flag": "images/zimbabwe.png",
+      "rank": 7
+    },
+    {
+      "id": "amam17-amam",
+      "name": "South Africa",
+      "continent": "Africa",
+      "flag": "images/southafrica.png",
+      "rank": 2
+    },
+    {
+      "id": "amam18-amam",
+      "name": "India",
+      "continent": "Asia",
+      "flag": "images/india.png",
+      "rank": 1
+    }
+  ]
+}
